@@ -1,0 +1,5 @@
+*
+!.gitignore
+!*.json
+!*.gfx.glsl
+!*.snd.glsl
