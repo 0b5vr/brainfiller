@@ -1,5 +1,11 @@
 # Brainfiller
 
+- Download: https://github.com/0b5vr/brainfiller/releases
+- YouTube: https://www.youtube.com/watch?v=OewtzMN0qO0
+- Pouet: https://www.pouet.net/prod.php?which=96542
+- Demozoo: https://demozoo.org/productions/342203/
+- Shadertoy: https://www.shadertoy.com/view/lctGRB
+
 ```
 Brainfiller!!!
 
