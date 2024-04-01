@@ -36,7 +36,7 @@
 		"enableAutoRestartBySoundShader":	true
 	},
 	"executableExportSettings":	{
-		"fileName":	".\\brainfiller.exe",
+		"fileName":	".\\brainfiller-720p.exe",
 		"xReso":	1280,
 		"yReso":	720,
 		"durationInSeconds":	144,
@@ -47,6 +47,8 @@
 		"enableSoundDispatchWait":	true,
 		"shaderMinifierOptions":	{
 			"noRenaming":	false,
+			"enableNoRenamingList":	true,
+			"noRenamingList":	"main,i",
 			"noSequence":	false,
 			"smoothstep":	false
 		},
